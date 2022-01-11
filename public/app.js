@@ -8,6 +8,6 @@ function fNumber() {
 
 }
 function fName() {
-    console.log('name button is clicked');
-    
+    rootTag.innerHTML = 'My name is Ramya';
+
 }
