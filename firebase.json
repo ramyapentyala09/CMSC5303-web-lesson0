@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "public",
+    "site": "webappsa0",
     "ignore": [
       "firebase.json",
       "**/.*",
