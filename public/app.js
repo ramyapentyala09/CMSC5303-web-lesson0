@@ -1,5 +1,6 @@
 const buttonNumber = document.getElementById('button-number');
 const buttonName = document.getElementById('button-name');
+const rootTag = document.getElementById('root');
 
 buttonNumber.addEventListener('click', fNumber);
 buttonName.addEventListener('click', fName);
